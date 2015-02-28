@@ -3,7 +3,7 @@
 </head>
 <body>
 <?php
-echo "hello there";
+echo "php is running here";
 ?>
 </body>
 </html>
