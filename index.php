@@ -2,7 +2,8 @@
 <head>
 </head>
 <body>
-
-hello there
+<?php
+echo "hello there";
+?>
 </body>
 </html>
