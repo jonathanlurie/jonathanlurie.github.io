@@ -1,13 +1,9 @@
 ---
 layout: post
-Date: 2015-03-15  
-Title: Pôle Emploi, vous connaissez?  
-Intro: Retrouvez le récit épique de mon inscription chez Pôle Emploi. Plein de drôleries infâmes et de temps perdu, tout ça dans le but de ne pas chercher d'emploi, vu que j'ai décidé de créer mon entreprise. Le plus dur à été de leur faire comprendre!  
+date: 2015-03-15  
+title: Pôle Emploi, vous connaissez?  
 categories: poleEmploi, job, photographe
-
 ---
-
-
 
 #Pôle Emploi, vous connaissez?
 Lorsque j'ai quitté mon job d'ingénieur pour "embrasser" une carrière de photographe indépendant, je ne me doutais pas de ce qui m'attendait, petit à petit, j'ai compris les *rumeurs* de mes proches  quant à cette institution. Le but ici n'est pas de balancer autant que possible sur Pôle Emploi (PE) et son personnel, mais plutôt de raconter mon parcours et donner quelques informations utiles (et quand même *aussi* de donner quelques impressions)...
