@@ -1,12 +1,18 @@
 ---
 layout: page
-title: "Help"
-description: "Something about me"
-header-img: "img/about-bg.jpg"
+title: About
+permalink: /about/
 ---
 
-<p>LALAL Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?</p>
+Travelogue is a minimal, single-column Jekyll theme that provides an immersive read experience for your readers.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!</p>
+![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png)
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestiae debitis nobis, quod sapiente qui voluptatum, placeat magni repudiandae accusantium fugit quas labore non rerum possimus, corrupti enim modi! Et.</p>
+## Getting Started
+The theme provides a complete Jekyll setup. Download it and start the Jekyll server.
+
+    git clone https://github.com/SalGnt/Travelogue.git
+    cd Travelogue
+    jekyll serve
+
+Visit the [Jekyll website](http://jekyllrb.com/) for more information.
