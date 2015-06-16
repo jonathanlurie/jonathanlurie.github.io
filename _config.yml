@@ -1,5 +1,5 @@
 # Site settings
-title: Journal
+title: Jo's Journal
 
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://jonathanlurie.github.io' # the base hostname & protocol for your site

@@ -6,10 +6,11 @@ backgrounds:
     - ../img/poleemploi.jpg
 thumb: http://jonathanlurie.fr/wp-content/uploads/2015/02/corpo.jpg
 category: none
-tags: job
+tags: poleEmploi, job, photographe
 show_tags: false
 show_categories: false
-
+Intro: Retrouvez le récit épique de mon inscription chez Pôle Emploi. Plein de drôleries infâmes et de temps perdu, tout ça dans le but de ne pas chercher d'emploi, vu que j'ai décidé de créer mon entreprise. Le plus dur à été de leur faire comprendre!
+author : Jonathan
 ---
 
 * TOC
