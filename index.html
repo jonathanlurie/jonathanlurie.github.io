@@ -3,13 +3,19 @@ layout: default
 home: true
 ---
 
+
+
 <div class="home">
+
+    
     <ul class="post-list">
         {% if site.pagination %}
         {% assign source = paginator.posts %}
         {% else %}
         {% assign source = site.posts %}
         {% endif %}
+
+
 
         {% for post in source %}
         <li>

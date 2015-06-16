@@ -4,10 +4,11 @@
 
 #sb-site {
     background-color: transparent;
-    padding: ($spacing-unit * 2) 0;
+    padding: ($spacing-unit) 0;
 }
 
 .container {
+    padding-top: 10px;
     background: $background-color;
     padding: 0;
     position: relative;
