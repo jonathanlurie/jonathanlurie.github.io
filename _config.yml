@@ -2,7 +2,7 @@
 title: Jo's Journal
 
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'http://jonathanlurie.github.io' # the base hostname & protocol for your site
+url: 'http://journal.jonathanlurie.fr' # the base hostname & protocol for your site
 
 # Build settings
 markdown:            kramdown
