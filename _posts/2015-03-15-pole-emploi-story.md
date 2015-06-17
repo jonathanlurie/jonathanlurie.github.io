@@ -4,7 +4,7 @@ date: 2015-03-15
 title: "Pôle Emploi, vous connaissez?"
 backgrounds:
     - ../img/poleemploi.jpg
-thumb: http://jonathanlurie.fr/wp-content/uploads/2015/02/corpo.jpg
+thumb: ../img/2015/06/17/corpolemploi.jpg
 category: none
 tags: poleEmploi, job, photographe
 show_tags: false
