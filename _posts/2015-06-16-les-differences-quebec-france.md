@@ -7,7 +7,7 @@ backgrounds: ../img/2015/06/17/cover-1-2.jpg
 thumb: ../img/2015/06/17/coq.png
 show_categories: false
 show_tags: false
-excerpt: ""
+excerpt: "La première différence entre la France est le Quebec est bien sur la langue. Eh oui, malgré ce qu'on croit, les français ne parlent pas tout à fait québécois, et les québécois ne parlent pas tout à fait français, même en faisant abstraction de l'accent!"
 ---
 
 * TOC
@@ -28,11 +28,11 @@ Avant d'arriver, on m'avait beaucoup parlé des *anglicismes francisés* . On no
 - On ne dira pas un "bureau de tabac" mais simplement une *tabagie*.
 - Ici au Québec, les gens *écoutent* un film, alors qu'en France on a plutôt tendance à la *regarder*. Je ne sais pas vraiment d'où vient cette différence mais perso ja me vois pas dire *« Tiens, si j'écoutais un petit film de Charly Chaplin ce soir »*.
 
-Dans un genre un peu similaire, il y a beaucoup de mots anglais/américains naturellement utilisés et intégrés. Par exemple *le brake à bras* , pour le *frein à main* (d'ailleurs le plus souvent activé par une pédale dans les voitures américaines). 
+Dans un genre un peu similaire, il y a beaucoup de mots anglais/américains naturellement utilisés et intégrés. Par exemple *le brake à bras* , pour le *frein à main* (d'ailleurs le plus souvent activé par une pédale dans les voitures américaines).
 
 <hr>
 
-Ici, peu importe à qui tu parles, le tutoiement est quasi systématique, même à la banque ou à la poste. Et c'est le plus souvent accompagné d'un « *Salut* » (ou Allo) plutôt que *Bonjour*. Peut être que c'est issu de l'anglais, ou que c'est juste pour faire plus simple, en tout c'est assez surprenant quand le flic qui t'arrête te dit : 
+Ici, peu importe à qui tu parles, le tutoiement est quasi systématique, même à la banque ou à la poste. Et c'est le plus souvent accompagné d'un « *Salut* » (ou Allo) plutôt que *Bonjour*. Peut être que c'est issu de l'anglais, ou que c'est juste pour faire plus simple, en tout c'est assez surprenant quand le flic qui t'arrête te dit :
 
 > « *Salut, les papiers s'il te plait* »
 
@@ -47,7 +47,7 @@ Je ne sais pas si on peut toujours parler de tutoiement, mais nous avons constat
 
 ## La méteo
 La météo est assez variable ici au long de l'année : l'hiver est (très) froid et (très) neigeux, le printemps est pluvieux, l'été semble être assez *humide* (bon ok, pluvieux) mais doux, et l'automne, je ne sais pas encore. En général, les gens ne se plaignent pas du temps qu'il fait, il l'accepte et de toute façon c'est comme ça. ils prennent  la route le matin même s'il est tombé 20cm de neige dans la nuit, et personne ne roule à 10km/h. Arrivé le printemps, tout le monde re-chausse les pneus d'été.
-En France c'est plutôt : 
+En France c'est plutôt :
 
 - peu de différence de température ou de conditions entre l'été et l'hiver
 - quasi personne n'a de pneux hiver, mais tout le monde se plaint que ça dérape
@@ -69,7 +69,7 @@ Une autre chose assez étonnante avec l'essence : au Quebec, il n'y a jamais plu
 
 <hr>
 
-Le Quebec a une superficie de presque 3 fois la France, et une population presque divisée par 8, autant dire que les gens peuvent être très loins les uns des autres! C'est surement ce qui explique le prix des communication, aussi bien téléphone qu'Internet... Ici on ne parle pas d' «Illimité», de «Fibre partout» ou de forfait à 20$. Quand on prend un abonnement Internet, il faut bien réfléchir : 
+Le Quebec a une superficie de presque 3 fois la France, et une population presque divisée par 8, autant dire que les gens peuvent être très loins les uns des autres! C'est surement ce qui explique le prix des communication, aussi bien téléphone qu'Internet... Ici on ne parle pas d' «Illimité», de «Fibre partout» ou de forfait à 20$. Quand on prend un abonnement Internet, il faut bien réfléchir :
 
 > *« de quelle vitesse j'ai besoin? Combien de Gigas je prévois de télécharger par mois? (surtout qu'il n'y a pas de politique contre le téléchargement illégal) Est-ce que je devrais pas aussi prendre mon abonnement smartphone chez le même opérateur pour gratter 10 balles? »*
 
@@ -77,10 +77,10 @@ Pour faire court, internet à la maison (limité et sans téléphone fixe ni té
 
 <hr>
 
-Le fruits et légumes... Aah comme j'aimerai avoir les moyens de me faire 5 fruits et légumes frais par jour! C'est tellement cher ici! À part certains arrivages de Californie, les fruits et légumes sont largement 2 fois plus chers qu'en France, avec une exception pour les bananes qui ne coutent rien (pourquoi juste les bananes? et pourquoi pas les mangues? je sais pas...). 
+Le fruits et légumes... Aah comme j'aimerai avoir les moyens de me faire 5 fruits et légumes frais par jour! C'est tellement cher ici! À part certains arrivages de Californie, les fruits et légumes sont largement 2 fois plus chers qu'en France, avec une exception pour les bananes qui ne coutent rien (pourquoi juste les bananes? et pourquoi pas les mangues? je sais pas...).
 
 ## Les moyens de paiement
-En France, quand on veut payer par carte, on prend sa carte et on paye, ou alors on dit 
+En France, quand on veut payer par carte, on prend sa carte et on paye, ou alors on dit
 
 > « *C'est possible par carte pour 4,50€ ?* »
 
@@ -92,7 +92,7 @@ Ici, il y a plusieurs chose:
 - La carte de crédit
 - Le chèque (en France aussi on a les chèques, mais bon... sérieusement... les chèques?)
 
-La carte de débit fonctionne comme ce que nous appelons *carte bleue* en France, mais par partout. En effet beaucoup d'endroit ne permettent pas les achats avec une carte de débit (en particulier dans la restauration ou l'hôtellerie), et sur Internet, on ne paye pas avec une carte de débit. Qu'est ce qu'on fait alors? On demande une *carte de crédit* à sa banque, et contrairement à la France, cette carte sert **vraiment** à faire un crédit. Elle puise dans une réserve d'argent mise à disposition par la banque (mais qui ne nous appartient pas) et qu'il faudra rembourser au plus vite (au risque de payer 20% d'intérêt par mois). Sauf que pour faire un crédit, il faut pouvoir prouver qu'on est capable de rembourser, pour obtenir une carte de crédit, c'est pareil! Dans notre cas, nous avons juste du attendre 1 mois pour l'avoir, mais en général, les demandeurs sont soumis à une enquête pour vérifier si ils n'ont pas trop déconné dans la passé. Comme cette enquête ne sort pas des frontières canadiennes, il arrivent que les étranger ne puissent pas obtenir de carte de crédit, ou alors avec un plafond extrêmement faible. Une fois que t'as ta super carte de crédit, tu peux enfin payer partout! Il faut juste dire "débit" ou "crédit" à la caisse car le vendeur doit faire un réglage sur le terminal. J'ai cru comprendre qu'un certain nombre de personnes favorisaient largement la carte de *crédit* car ils s'en serve comme ce que nous appelons les *cartes à débit différés*... 
+La carte de débit fonctionne comme ce que nous appelons *carte bleue* en France, mais par partout. En effet beaucoup d'endroit ne permettent pas les achats avec une carte de débit (en particulier dans la restauration ou l'hôtellerie), et sur Internet, on ne paye pas avec une carte de débit. Qu'est ce qu'on fait alors? On demande une *carte de crédit* à sa banque, et contrairement à la France, cette carte sert **vraiment** à faire un crédit. Elle puise dans une réserve d'argent mise à disposition par la banque (mais qui ne nous appartient pas) et qu'il faudra rembourser au plus vite (au risque de payer 20% d'intérêt par mois). Sauf que pour faire un crédit, il faut pouvoir prouver qu'on est capable de rembourser, pour obtenir une carte de crédit, c'est pareil! Dans notre cas, nous avons juste du attendre 1 mois pour l'avoir, mais en général, les demandeurs sont soumis à une enquête pour vérifier si ils n'ont pas trop déconné dans la passé. Comme cette enquête ne sort pas des frontières canadiennes, il arrivent que les étranger ne puissent pas obtenir de carte de crédit, ou alors avec un plafond extrêmement faible. Une fois que t'as ta super carte de crédit, tu peux enfin payer partout! Il faut juste dire "débit" ou "crédit" à la caisse car le vendeur doit faire un réglage sur le terminal. J'ai cru comprendre qu'un certain nombre de personnes favorisaient largement la carte de *crédit* car ils s'en serve comme ce que nous appelons les *cartes à débit différés*...
 Il m'arrive toujours de devoir payer avec ma Visa française, or ici les Visa sont surtout utilisées pour le crédit, du coup avec les vendeurs on essaye souvent plusieurs combinaisons:
 
 > « Par Visa? »  
@@ -115,7 +115,7 @@ Je n'ai pas vraiment trouvé de catégorie pour ça, alors je vous le met comme 
 
 Quand t'es en train d'attendre au feux rouge, à un croisement, si t'as ton clignotant à droite et que t'es suivit par un autre qui veux aussi tourner à droite, t'as de forte chance de te faire klaxonner! Le code de la route indique que si c'est rouge et que tu veux tourner à droite « *Allez, c'est bon, tu peux y aller!* », sauf si t'as un feux dédié pour ceux qui tournent à droite. D'ailleurs ce feux "special" est un peu pervers : à certains croisements, il ne s'allume que pour être vert, c'est à dire que quand il devrait être rouge, en réalité, il reste éteint... Je crois que ça veut dire:
 
-> « C'est rouge+eteint, tu as le droit de tourner, mais t'as pas le droit d'avancer » ... tricky! 
+> « C'est rouge+eteint, tu as le droit de tourner, mais t'as pas le droit d'avancer » ... tricky!
 
 <hr>
 
@@ -172,4 +172,4 @@ Je pense qu'en France en s'en tape pas mal de savoir comment s'appelle le mec qu
 
 Au cours de notre séjour ici nous trouverons encore pas mal de différences, mais c'est déjà un bon début!
 
-++ 
+++
