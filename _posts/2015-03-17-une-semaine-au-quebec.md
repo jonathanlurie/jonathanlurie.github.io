@@ -3,9 +3,8 @@ layout: post
 title: "Une semaine au Quebec"
 author : Jonathan
 date: 2015-03-17
-backgrounds:
-    - ../img/quebecmap.jpg
-thumb: http://jonathanlurie.fr/wp-content/uploads/2015/05/arriveechic-18.jpg
+backgrounds: ../img/quebecmap.jpg
+thumb: ../img/2015/06/17/arriveechic-18.jpg
 show_categories: false
 show_tags: false
 excerpt: "Eh oui, nous sommes au Quebec! Autant pour Pati que pour moi, c'est un première sur le continent américain! À notre arrivée, nous avons même pu dire « C'est pour affaire », comme dans les films. En effet, Pati à décroché un post-doc d'un an à Chicoutimi, une ville de taille moyenne au nord de Quebec City. Chic est en fait un district de la ville de Saguenay"
@@ -16,7 +15,7 @@ excerpt: "Eh oui, nous sommes au Quebec! Autant pour Pati que pour moi, c'est un
 
 # Avant l'arrivée
 
-Eh oui, nous sommes au Quebec! Autant pour Pati que pour moi, c'est une première sur le **continent américain**! À notre arrivée, nous avons même pu dire *« C'est pour affaire »*, comme dans les films.   
+Eh oui, nous sommes au Quebec! Autant pour Pati que pour moi, c'est une première sur le **continent américain**! À notre arrivée, nous avons même pu dire *« C'est pour affaire »*, comme dans les films.
 En effet, Pati a décroché un *post-doc* d'un an à Chicoutimi, une ville de taille moyenne au nord de Quebec City. *Chic* est en fait un district de la ville de Saguenay. C'est sur le point bleu:  
 
 [![](https://www.dropbox.com/s/loib3uvg9z7xl8j/map-chic.png?dl=0&raw=1)](https://www.google.fr/maps/place/48%C2%B025'30.6%22N+71%C2%B003'50.6%22W/@48.425172,-71.064062,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0)
@@ -25,7 +24,7 @@ La compagnie aérienne (Air Transat) nous autorisait chacun à prendre un max de
 Avec Pati, on a même mis nos grosses chaussures à nos pieds, histoire d'alléger de quelques centaines de grammes nos valises!
 
 ![](https://lh3.googleusercontent.com/WLyvfBNgT-zOTGKy49yk5_TiofrB_GbDCuCxYi5-rdA=w1274-h1688-no)
-  
+
 Deux semaine avant le départ, la chef de Pati nous a aidé à trouver un appart sur place. C'est un vrai plus de ne pas avoir à passer une semaine à l'hotel en stressant sur les petites annonces (le genre de scénario qui finit le plus souvent dans un appart miteux). Donc **Merci Valérie!!**!  
 
 La [voiture de loc](http://www.authentikcanada.com/) était réservée pour notre première semaine car on avait prévu d'atterrir à Quebec puis de rouler jusqu'à Chic (2h sur Google Map, 3h dans la vraie vie). De toute façon, on n'aurait difficilement pu faire autrement, faute de ligne aérienne/ferroviaire/bus jusqu'à Chic!
@@ -74,7 +73,7 @@ Il me regarde un peu perplexe puis me fait signe de mettre ma carte l'air de dir
 
 > *« Oh, entre 3 et 5$, ça dépend »*
 
-Je mets 4$ et et dit 
+Je mets 4$ et et dit
 > *« Merci, au revoir! »*
 
 > *«  Oui, bonjour!»*
@@ -91,19 +90,19 @@ Après ça, les voitures auto, c'est *easy*! C'est parti pour l'hotel!
 
 On trouve la route sans problème car l'hotel est en plein centre historique de Quebec. Ce sont les gérants d'une boutique de souvenirs qui tiennent ça. et leur goût en terme de déco est assez surprenant. Petite visite de la chambre:
 
-Le lit, fleurit:    
+Le lit, fleurit:
 ![](https://lh3.googleusercontent.com/-JoQmc6h4d7A/VQhJcsolzjI/AAAAAAAAGMM/LeDJx-swxtE/w2716-h1528-no/2015-03-09%2B05.47.57%2B1.jpg)
 
 
-Le machin en métal:   
+Le machin en métal:
 ![](https://lh4.googleusercontent.com/-JhilCQo-e0s/VQhKB2itDxI/AAAAAAAAGMo/wOW4Fc9Ex5g/w1000-h1776-no/2015-03-17%2B11.35.17%2B1.jpg)
 
-Des oignons en fleurs:   
+Des oignons en fleurs:
 ![](https://lh3.googleusercontent.com/-RB0M0DOlq_4/VQhKoViU_lI/AAAAAAAAGM4/DAX8U_Wkuwc/w2716-h1528-no/2015-03-17%2B11.38.14%2B1.jpg)
 
 Malheureusement je n'ai pas de photos de la salle de bain, délicieusement 80's!
 
-Pour notre court séjour à Quebec City, on avait  tout bien planifié : d'abord on va à *Service Canada* pour obtenir un numéro d'assuré social, ensuite on va ouvrir un compte et si on a le temps, on cherche un forfait téléphone. **Puis la flemme frappa**, et l'envie de plutôt se balader et découvrir la ville à gagné! 
+Pour notre court séjour à Quebec City, on avait  tout bien planifié : d'abord on va à *Service Canada* pour obtenir un numéro d'assuré social, ensuite on va ouvrir un compte et si on a le temps, on cherche un forfait téléphone. **Puis la flemme frappa**, et l'envie de plutôt se balader et découvrir la ville à gagné!
 
 Quebec est une *petite ville* si on juge par son centre historique, c'est assez agréable de s'y balader, c'est assez européen en fait. Déjà le fait qu'il y ait un *centre ville* est assez rare semble-t-il en Amérique du Nord, ça nous permet de découvrir le Canada en douceur. On y trouve même des lieux qu'on aurait pensé typiquement français:  
 
@@ -129,18 +128,18 @@ Vers 17h, nous sommes claqués! Heure locale, **on s'est levé tellement tôt qu
 
 Après le petit dej' on découvre Quebec aux premières lueurs du jour, il fait pas chaud, mais nos yeux de touristes s'en fichent!
 
-Sam Champlain, beau gosse:   
+Sam Champlain, beau gosse:
 ![](https://lh4.googleusercontent.com/-1BXGlGnGdI0/VQhLdUCpELI/AAAAAAAAGO4/LRUdIxl2gcQ/w1000-h1776-no/2015-03-12%2B05.28.05%2B4.jpg)
 
-Le Saint Laurent un peu glacé:   
+Le Saint Laurent un peu glacé:
 ![](https://lh3.googleusercontent.com/-XMG4XFl9244/VQhLfp1bwjI/AAAAAAAAGO8/opTYeGiJxEY/w2716-h1528-no/2015-03-15%2B04.20.33%2B2.jpg)
 
-Un des multiples canons qui longent les murs de la ville:   
+Un des multiples canons qui longent les murs de la ville:
 ![](https://lh5.googleusercontent.com/-kTABZuklGhE/VQhLhi1Br4I/AAAAAAAAGPA/nMyLp4BjwDA/w1000-h1776-no/2015-03-15%2B04.41.36%2B2.jpg)
 
 # Les papiers
 
-Cette deuxième journée s'annonçait chargée de paperasse mais il fallait que ce soit fait! Pour travailler, se soigner, gérer son argent et tout...   
+Cette deuxième journée s'annonçait chargée de paperasse mais il fallait que ce soit fait! Pour travailler, se soigner, gérer son argent et tout...
 A Quebec pour les formalités administratives, ça se passe à *Service Canada* (SC), c'est un peu l'équivalent de nos préfectures, mais en vachement plus efficace!  
 A notre arrivée chez SC, on est accueilli à un petit bureau dans la pièce principale. Premier détail: à ce bureau la personne est débout (pas de chaise) et au cours de la journée plusieurs personnes semblent se relayer pour accueillir les gens. Il n'y a pas une personne qui attends toute la journée à ce poste, qu'il y ait des visiteurs ou non, ils ont autres choses à faire! L'*hotesse* se dirige vers ce bureau d'accueil en même temps qu'elle nous voit entrer dans la pièce et là, stupeur (!) elle actionne un bouton qui réajuste la hauteur du bureau!! Avec un petit bruit de moteur et tout! : **LE FUTUR**!  
 
@@ -154,7 +153,7 @@ A notre arrivée chez SC, on est accueilli à un petit bureau dans la pièce pri
 
 Nos documents sont prêts avec une vitesse fulgurante, on a juste eu besoin de donner une adresse, nos permis de travail et nos passeports! (ah, et dire qu'on a pas de frère jumeau!). D'après mes souvenirs, en France, il nous aurait fallu 2 photos d'identités, un justificatif de domicile de moins de trois mois, un acte de naissance (aussi de moins de 3 mois au cas où tu serais subitement nais à un autre endroit y'a 4 mois) et très certainement un acte de mariage.
 
-Avant de partir de SC, on demande à tout hasard s'ils savent où se trouve la banque CIBC la plus proche. On nous a carrément installés à des postes internet dispo pour le public, et ils ont cherché avec nous. Enfin, ils ont même plutôt cherché pour nous à vrai dire. Etonnant de voir autant d'efforts de la part du service public! 
+Avant de partir de SC, on demande à tout hasard s'ils savent où se trouve la banque CIBC la plus proche. On nous a carrément installés à des postes internet dispo pour le public, et ils ont cherché avec nous. Enfin, ils ont même plutôt cherché pour nous à vrai dire. Etonnant de voir autant d'efforts de la part du service public!
 
 Vingt minutes après, nous voilà à la banque pour ouvrir un compte joint qui coute 0$ par mois avec une carte de débit chacun! Ça avait l'air super simple (et c'était sensé l'être) mais suite à un bug de leur système nous avons du rouvrir un autre compte quelques jours plus tard...
 
@@ -181,11 +180,11 @@ Sachant qu'au Quebec il n'y a pas de contrôle technique, on peut tomber sur à 
 En France, quand on veut vendre sa vieille carcasse qui roule pourtant très bien, il faut :
 
 - passer au contrôle technique
-- changer des trucs comme les amortisseurs parce que *« Vous savez, ça risque de moins tenir la route. »* 
+- changer des trucs comme les amortisseurs parce que *« Vous savez, ça risque de moins tenir la route. »*
 - changer encore d'autres trucs comme le pot d'échappement parce que ça fait trop de bruit
-- et globalement casser son billet de 500 (min) pour avoir le droit de s'en débarrasser. 
+- et globalement casser son billet de 500 (min) pour avoir le droit de s'en débarrasser.
 
-500€ que les gens veulent récupérer en la vendant! (normal quand même!) Ici, non.   
+500€ que les gens veulent récupérer en la vendant! (normal quand même!) Ici, non.
 Je cherchais une grosse voiture type *break* ou petit camion, pour pouvoir partir en weekend dès qu'il fera meilleur. J'ai fini par trouver un garage ([Les Autos Sympatiques](http://www.autoausaguenay.com/), si si pour de vrai) qui vendait un Dodge Caravan en bon état pour 3000$CAD (environ 2200€ ). Je vais voir sur place, je l'essaye, il roule bien et c'est vraiment ce que je cherchais. Je dis au vendeur:
 
 > *« Ça me plait bien comme véhicule, si je vous le prends aujourd'hui, je peux repartir quand avec? »*
@@ -248,5 +247,3 @@ Voilà, la première semaine est finie et il reste encore 99.9% de choses à dé
 Le prochain article sera sur ces choses du quotidien qui sont un peu (ou beaucoup) différentes ici. Et il y en a!
 
 À bientôt!
-
- 
