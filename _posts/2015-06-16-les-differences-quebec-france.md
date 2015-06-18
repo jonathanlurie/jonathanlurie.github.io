@@ -86,13 +86,13 @@ En France, quand on veut payer par carte, on prend sa carte et on paye, ou alors
 
 et en général c'est pas possible alors on fait le tour de la ville pour trouver un DAB, mais disons que la difficulté s'arrête là.
 
-Ici, il y a plusieurs chose:
+Ici, il y a plusieurs choses:
 
 - La carte de débit
 - La carte de crédit
 - Le chèque (en France aussi on a les chèques, mais bon... sérieusement... les chèques?)
 
-La carte de débit fonctionne comme ce que nous appelons *carte bleue* en France, mais par partout. En effet beaucoup d'endroit ne permettent pas les achats avec une carte de débit (en particulier dans la restauration ou l'hôtellerie), et sur Internet, on ne paye pas avec une carte de débit. Qu'est ce qu'on fait alors? On demande une *carte de crédit* à sa banque, et contrairement à la France, cette carte sert **vraiment** à faire un crédit. Elle puise dans une réserve d'argent mise à disposition par la banque (mais qui ne nous appartient pas) et qu'il faudra rembourser au plus vite (au risque de payer 20% d'intérêt par mois). Sauf que pour faire un crédit, il faut pouvoir prouver qu'on est capable de rembourser, pour obtenir une carte de crédit, c'est pareil! Dans notre cas, nous avons juste du attendre 1 mois pour l'avoir, mais en général, les demandeurs sont soumis à une enquête pour vérifier si ils n'ont pas trop déconné dans la passé. Comme cette enquête ne sort pas des frontières canadiennes, il arrivent que les étranger ne puissent pas obtenir de carte de crédit, ou alors avec un plafond extrêmement faible. Une fois que t'as ta super carte de crédit, tu peux enfin payer partout! Il faut juste dire "débit" ou "crédit" à la caisse car le vendeur doit faire un réglage sur le terminal. J'ai cru comprendre qu'un certain nombre de personnes favorisaient largement la carte de *crédit* car ils s'en serve comme ce que nous appelons les *cartes à débit différés*...
+La carte de débit fonctionne comme ce que nous appelons *carte bleue* en France, mais pas partout. En effet, beaucoup d'endroit ne permettent pas les achats avec une carte de débit (en particulier dans la restauration ou l'hôtellerie), et sur Internet, on ne paye pas avec une carte de débit. Qu'est ce qu'on fait alors? On demande une *carte de crédit* à sa banque, et contrairement à la France, cette carte sert **vraiment** à faire un crédit. Elle puise dans une réserve d'argent mise à disposition par la banque (mais qui ne nous appartient pas) et qu'il faudra rembourser au plus vite (au risque de payer 20% d'intérêt par mois). Sauf que pour faire un crédit, il faut pouvoir prouver qu'on est capable de rembourser, pour obtenir une carte de crédit, c'est pareil! Dans notre cas, nous avons juste du attendre 1 mois pour l'avoir, mais en général, les demandeurs sont soumis à une enquête pour vérifier si ils n'ont pas trop déconné dans la passé. Comme cette enquête ne sort pas des frontières canadiennes, il arrivent que les étrangers ne puissent pas obtenir de carte de crédit, ou alors avec un plafond extrêmement faible. Une fois que t'as ta super carte de crédit, tu peux enfin payer partout! Il faut juste dire "débit" ou "crédit" à la caisse car le vendeur doit faire un réglage sur le terminal. J'ai cru comprendre qu'un certain nombre de personnes favorisaient largement la carte de *crédit* car ils s'en serve comme ce que nous appelons les *cartes à débit différés*...
 Il m'arrive toujours de devoir payer avec ma Visa française, or ici les Visa sont surtout utilisées pour le crédit, du coup avec les vendeurs on essaye souvent plusieurs combinaisons:
 
 > « Par Visa? »  
@@ -101,9 +101,9 @@ Il m'arrive toujours de devoir payer avec ma Visa française, or ici les Visa so
 > « Je crois que ça marche pas là... »  
 > « Pourtant c'est bien une Visa? »  
 > « Oui mais je pense que c'est débit, c'est une carte française »  
-> « Débit? une Visa? Bon on va essayer... »  
+> « Débit? Une Visa? Bon on va essayer... »  
 
-Et parfois, même si la boutique accepte débit et crédit (moyennant de le préciser), l'accord qu'il à avec la banque n'accepte simplement pas  les Visa.
+Et parfois, même si la boutique accepte débit et crédit (moyennant de le préciser), l'accord qu'il a avec la banque n'accepte simplement pas  les Visa.
 
 
 Pour payer le loyer, ça a été aussi l'aventure. Au début, on pensait faire comme en France : un virement mensuel, avec un code IBAN chopé sur un RIB, normal quoi. Mais la banquière n'avait jamais entendu parlé de IBAN ou de RIB. De notre coté, nous n'avions jamais entendu parler d'*Intérac* , un protocole qui permet d'envoyer de l'argent avec un identifiant qui n'est autre que l'email de la personne (un peu comme avec Paypal). Pour faire ce transfert, tu dois créer une "question secrète" et ton proprio doit inscrire la réponse (que tu lui a envoyé par mail pas du tout crypté) et tout ça coute 1,50$. Ce n'est pas spécialement cher, mais c'est juste étonnant de devoir payer pour ce type de service, qui n'engage que l'échange de quelques *kilo bytes* dans des cables (en partie déjà payé par mon abonnement internet et celui de la proprio).
@@ -111,7 +111,7 @@ Pour payer le loyer, ça a été aussi l'aventure. Au début, on pensait faire c
 
 ## D'autres trucs en vrac
 
-Je n'ai pas vraiment trouvé de catégorie pour ça, alors je vous le met comme ça...
+Je n'ai pas vraiment trouvé de catégorie pour ça, alors je vous le mets comme ça...
 
 Quand t'es en train d'attendre au feux rouge, à un croisement, si t'as ton clignotant à droite et que t'es suivit par un autre qui veux aussi tourner à droite, t'as de forte chance de te faire klaxonner! Le code de la route indique que si c'est rouge et que tu veux tourner à droite « *Allez, c'est bon, tu peux y aller!* », sauf si t'as un feux dédié pour ceux qui tournent à droite. D'ailleurs ce feux "special" est un peu pervers : à certains croisements, il ne s'allume que pour être vert, c'est à dire que quand il devrait être rouge, en réalité, il reste éteint... Je crois que ça veut dire:
 
@@ -119,7 +119,7 @@ Quand t'es en train d'attendre au feux rouge, à un croisement, si t'as ton clig
 
 <hr>
 
-Dans certaines station essences, tu dois dire combien tu veux mettre et payer avant de te servir. Pas évident si t'avais prévu de faire le plein...
+Dans certaines stations essences, tu dois dire combien tu veux mettre et payer avant de te servir. Pas évident si t'avais prévu de faire le plein...
 
 <hr>
 
@@ -127,8 +127,8 @@ Les québécois boivent beaucoup de lait. Partout il y a des petites *boites* po
 
 <hr>
 
-Beaucoup de magasins vendent *" un peu de tout "* . Par exemple, les premières fois que nous sommes allez chez *Jean Coutu*, c'était pour que Pati puisse trouver du vernis à ongle, de la crème pour les mains et d'autre trucs comme ça (un peu comme on irait chez Sephora et The Body Shop). Mais on y trouve aussi des vêtements et jouets pour bébé, des chargeurs de téléphone, des montre, des boissons...  
-Même scénario à la pharmacie (qui ressemble *vraiment* à une pharmacie de l'extérieur), on trouve bien sur des médocs, mais on peut y acheter quelques produits d'épicerie, des piles, des ticket à gratter (genre Bingo ou loto), et même des cigarettes. Au final, si c'est juste pour acheter du paracétamol, autant aller en grande surface (chose qu'on ne voit pas en France)! Un peu déstabilisant par rapport à nos pharmacies aseptisées où même les Dolipranes ne sont pas en libre service...
+Beaucoup de magasins vendent *" un peu de tout "* . Par exemple, les premières fois que nous sommes allez chez *Jean Coutu*, c'était pour que Pati puisse trouver du vernis à ongle, de la crème pour les mains et d'autre trucs comme ça (un peu comme on irait chez Sephora et The Body Shop). Mais on y trouve aussi des vêtements et jouets pour bébés, des chargeurs de téléphone, des montres, des boissons...  
+Même scénario à la pharmacie (qui ressemble *vraiment* à une pharmacie de l'extérieur), on trouve bien sur des médocs, mais on peut y acheter quelques produits d'épicerie, des piles, des tickets à gratter (genre Bingo ou loto), et même des cigarettes. Au final, si c'est juste pour acheter du paracétamol, autant aller en grande surface (chose qu'on ne voit pas en France)! Un peu déstabilisant par rapport à nos pharmacies aseptisées où même les Dolipranes ne sont pas en libre service...
 
 
 
@@ -139,7 +139,7 @@ Même scénario à la pharmacie (qui ressemble *vraiment* à une pharmacie de l'
 ![](../img/2015/06/17/porte.jpg)
 
 
-- Toutefois, les poignées de portes d'entrées (ou de chambre d'hotel) ne sont comportent pas de levier, et sont plutôt du genre "boule" avec la serrure au centre. Petite subtilité qui nous a bien fait galérer la première fois : pour fermer à clé, il faut faire un quart de tour vers la droite, suivit d'une quart de tour vers la gauche (pour la remettre dans sa position initiale). Pour ouvrir, c'est l'inverse...
+- Toutefois, les poignées de portes d'entrées (ou de chambre d'hotel) ne comportent pas de levier, et sont plutôt du genre "boule" avec la serrure au centre. Petite subtilité qui nous a bien fait galérer la première fois : pour fermer à clé, il faut faire un quart de tour vers la droite, suivit d'une quart de tour vers la gauche (pour la remettre dans sa position initiale). Pour ouvrir, c'est l'inverse...
 
 - Les appareils électroménagers sont tous plus gros qu'en France, comme par exemple cette gazinière (sans gaz) capable d'accueillir une dinde de 60kg et 4 plats à paella
 
@@ -147,7 +147,7 @@ Même scénario à la pharmacie (qui ressemble *vraiment* à une pharmacie de l'
 
 (le frigo est dans le même esprit)
 
-- Les boites-aux-lettres ne ferment pas à clé, ce sont juste des petite boites avec un rabat sur le dessus, tout juste capable de recevoir un magazine roulé. Par contre les pubs ne sont pas distribuées comme en France : une fois par semaine un sac plastique gavé de prospectus est déposé dans chaque boite (ne laissant pas franchement de place au reste). C'est pas vraiment plus écolo, mais c'est toujours mieux qu'en France...
+- Les boites-aux-lettres ne ferment pas à clé, ce sont juste des petites boites avec un rabat sur le dessus, tout juste capable de recevoir un magazine roulé. Par contre les pubs ne sont pas distribuées comme en France : une fois par semaine un sac plastique gavé de prospectus est déposé dans chaque boite (ne laissant pas franchement de place au reste). C'est pas vraiment plus écolo, mais c'est toujours mieux qu'en France...
 
 - À l'extérieur des maison, juste sous les toits, sont souvent accrochés des faux hiboux (style sculpture bas relief), sensé faire peur aux pigeons:
 
