@@ -6,7 +6,7 @@ thumb : https://im.vsco.co/1/52cacb4939dc8257393/55e66cd32b331e193e8b456d/3db540
 backgrounds : https://im.vsco.co/1/52cacb4939dc8257393/55e66dbe49331e7d728b456e/634dba59-60d5-4110-a7b2-f15b31d641fa.jpg
 show_tags : false
 show_categories : false
-excerpt : "this is the excerpt"
+excerpt : "Enfin, on peut récupérer facilement les images de VSCO!"
 author : "Jonathan"
 ---
 
