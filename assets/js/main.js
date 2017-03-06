@@ -96,7 +96,7 @@
 							$header.css('background-position', 'left 0px');
 
 							$window.on('scroll.strata_parallax', function() {
-								$header.css('background-position', 'left ' + (-1 * (parseInt($window.scrollTop()) / settings.parallaxFactor)) + 'px');
+								//$header.css('background-position', 'left ' + (-1 * (parseInt($window.scrollTop()) / settings.parallaxFactor)) + 'px');
 							});
 
 						}
@@ -114,6 +114,7 @@
 			// Lightbox gallery.
 				$window.on('load', function() {
 
+          /*
 					$('#two').poptrox({
 						caption: function($a) { return $a.next('h3').text(); },
 						overlayColor: '#2c2c2c',
@@ -127,6 +128,7 @@
 						usePopupNav: true,
 						windowMargin: (skel.breakpoint('small').active ? 0 : 50)
 					});
+          */
 
 				});
 

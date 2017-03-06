@@ -1,0 +1,11 @@
+.tag {
+  background-color: #d6d6d6;
+  padding: 2px 5px 2px 5px;
+  margin: 0px 4px 0px 0px;
+  border-radius: 3px;
+  color: #ffffff;
+}
+
+.tag-list {
+  margin-bottom: 8px !important;
+}
