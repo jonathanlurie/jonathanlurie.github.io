@@ -130,6 +130,19 @@
 					});
           */
 
+					$(".row").find(".work-item").each(function(index){
+						if(index % 2 == 0){
+							$(this).addClass("6u");
+						}else{
+							$(this).addClass("6u$");
+						}
+						
+						$(this).addClass("12u$(xsmall)");
+						
+					});
+						
+					
+
 				});
 
 	});
