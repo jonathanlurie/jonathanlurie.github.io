@@ -130,7 +130,15 @@
 					});
           */
 
-					$(".row").find(".work-item").each(function(index){
+					
+						arrangeColumns("code-div");
+						arrangeColumns("artsy-div");
+					
+
+				});
+
+				function arrangeColumns( parentDivID){
+					$("#" + parentDivID).find(".work-item").each(function(index){
 						if(index % 2 == 0){
 							$(this).addClass("6u");
 						}else{
@@ -140,10 +148,7 @@
 						$(this).addClass("12u$(xsmall)");
 						
 					});
-						
-					
-
-				});
+				}
 
 	});
 
